@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Persan174/annotations/f151.json", "https://TheoBurnel.github.io/Persan174/annotations/f163.json", "https://TheoBurnel.github.io/Persan174/annotations/f173.json", "https://TheoBurnel.github.io/Persan174/annotations/f221.json", "https://TheoBurnel.github.io/Persan174/annotations/f238.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Persan174/annotations/f163.json", "https://TheoBurnel.github.io/Persan174/annotations/f173.json", "https://TheoBurnel.github.io/Persan174/annotations/f221.json", "https://TheoBurnel.github.io/Persan174/annotations/f238.json" ],
   "@id" : "https://TheoBurnel.github.io/Persan174/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Persan174 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
